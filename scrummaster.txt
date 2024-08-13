@@ -1,0 +1,27 @@
+Scrum x XP
+
+1-Definição de Scrum:
+- Scrum e um tipo de estrutura ágil que e utilizada para gerenciar e desenvolver projetos mais complexos, especialmente em desenvolvimento de software. Ele se baseia em ciclos de trabalho iterativos que se chamam sprints. O Scrum se baseia na colaboração, flexibilidade e entrega do valor continuamente ao cliente.
+
+2-Ciclos de Trabalho:
+- Os ciclos de trabalho no Scrum são conhecidos como sprints. Um sprint é um período fixo, geralmente de 2 a 4 semanas, cada um começando com uma Sprint Planning (planejamento da sprint), onde o time define o que será entregue no final do ciclo. Ao longo do sprint, o time realiza reuniões diárias para discutir o progresso e resolver erros e problemas. No final da sprint terá uma reunião de revisão e uma retrospectiva, onde o progresso é revisado e melhorias são discutidas
+
+3-Papeis:
+Product Owner: Representa o cliente e as partes interessadas. É responsável por definir as prioridades do backlog do produto e garantir que a equipe esteja trabalhando nas funcionalidades, melhorias e correções.
+Scrum Master: Facilita o processo Scrum e ajuda a remover impedimentos que a equipe possa enfrentar. Atua como um gestor para garantir que as práticas Scrum sejam seguidas, protegendo a equipe de distrações externas.
+Development Team: Grupo multifuncional que trabalha para entregar o incremento do produto. A equipe é auto-organizada e colaborativa, focando em entregar o trabalho dentro dos sprints.
+
+4-Objetivos:
+Entregar incrementos de produto de valor ao final de cada sprint.
+Adaptar-se rapidamente às mudanças de requisitos e prioridades do cliente.
+Transparência e Comunicação: Promover a transparência em relação ao progresso e desafios, e melhorar a colaboração entre os membros do time.
+
+5-Vantagens em relação ao XP:
+Estrutura e Disciplina: Enquanto o XP enfatiza fortemente práticas técnicas como pair programming e testes contínuos um conjunto de práticas menos formalizado, o Scrum coloca um foco maior na gestão, comunicação e iteração entre stakeholders e a equipe de desenvolvimento.
+Flexibilidade de Técnicas: Scrum não prescreve técnicas específicas de desenvolvimento, permitindo que equipes usem uma variedade de práticas (incluindo técnicas de XP) conforme necessário.
+Escalabilidade: Scrum é frequentemente considerado mais escalável para projetos grandes e complexos, pois a estrutura de sprints e os papéis claramente definidos ajudam a coordenar equipes maiores.
+Foco em Processos e Papéis: Scrum tem uma ênfase maior em processos e papéis, enquanto XP foca mais nas práticas técnicas específicas, como testes automatizados.
+
+Criadores do Scrum: 
+Ken Schwaber e Jeff Sutherland
+
